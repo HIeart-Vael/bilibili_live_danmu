@@ -4,5 +4,8 @@ Lib
 Scripts
 pyvenv.cfg
 
-Bilibili_danmu/message/*
-Bilibili_danmu/image/*
+Bilibili_danmu/message/*_msg.txt
+Bilibili_danmu/message/*_danmu.txt
+Bilibili_danmu/message/*word_list.txt
+
+Bilibili_danmu/image/111.jpg
