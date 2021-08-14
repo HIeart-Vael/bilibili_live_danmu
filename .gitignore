@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+
+Lib
+Scripts
+pyvenv.cfg
+
+Bilibili_danmu/message/*
+Bilibili_danmu/image/*
